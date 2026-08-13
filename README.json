@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "description": "Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que iram te ajudar a fazer muitas coisas. Seja um dev atualizado e reconhecido.\nSiga as minhas redes sociais para acompanhar mais conteúdos:",
+      "items": [],
+      "title": "📒 Um guia extensivo para alavancar a sua carreira."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📔 Compêndio sobre Programação."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📢 Para quem está começando agora."
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Abra Pull Requests",
+          "description": "com atualizações que você gostaria de ver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T20:18:42Z",
+            "owner": "vncsmnl",
+            "repo": "guiadoprogramador",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discuta ideias através de issues",
+          "description": "ou na nossa comunidade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T20:18:42Z",
+            "owner": "vncsmnl",
+            "repo": "guiadoprogramador",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "🦾 Seja um colaborador:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "► Compilado de cursos GRATUITOS ◄"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "😎 Awesome Lists."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🗺️ Roadmaps."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤖 Inteligência Artificial."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🖥️ Sites para estudar programação."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎨 Sites para desenvolvedor front-end."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎮 Sites para aprender a programar jogando."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "✨ Templates HTML gratuitos."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧑‍🎨 Sites para aprender ou treinar CSS."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🪡 Geradores de CSS."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔎 Sites para buscar vagas remotas."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Ferramentas de desenvolvimento."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📇 Cheat Sheets."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🗂 Gerenciamento de projetos."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📝 IDEs e editores de código."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🖌 Design Front-end."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔤 Linguagens de programação."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📕 Guia de Estilo."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📁 Desafios."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠️ Sites e Ferramentas que todo DEV precisa conhecer."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🐧 Distros linux para programadores."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎭 Sites para praticar UI/UX."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "☁ Ferramentas para hospedar seu site."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌌 Sites para inspirar o seu desenvolvimento."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📮 Banco de imagens gratuitas."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👔 Aumentando o network."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🪶 Sites para baixar e encontrar fontes."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧵 Sites de paletas de cores."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎇 Lista de ilustrações."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧊 Sites de icones."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎥 Canais do YouTube com conteúdo gratuito."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔓 Pentest."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎙 Blogs e Podcasts."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💼 Business."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔩 Extensões para o seu navegador."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧩 Extensões para o VSCode."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⚙️ Userscripts."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Recomendação de livros."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📱 Apps para praticar programação."
+    },
+    {
+      "description": "🔝 Volte para o topo",
+      "items": [],
+      "title": "📝 Licença."
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:38.388Z",
+    "original_repository": "vncsmnl/guiadoprogramador",
+    "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
+    "enhanced_repository": "enhansome/enhansome-guiadoprogramador",
+    "enhanced_repository_description": null,
+    "title": "Awesome guiadoprogramador with stars"
+  }
+}
