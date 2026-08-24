@@ -35,10 +35,541 @@
         }
       ],
       "title": "🦾 Seja um colaborador:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "❤️ Awesome",
+          "description": "Listas incríveis sobre todos os tipos de tópicos interessantes. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cheatsheets",
+          "description": "Cheatsheets impressionantes para linguagens de programação, estruturas e ferramentas de desenvolvimento populares. Eles incluem tudo o que você deve saber em um único arquivo. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110058856,
+            "language": "JavaScript",
+            "last_commit": "2026-04-12T17:26:10Z",
+            "owner": "LeCoupa",
+            "repo": "awesome-cheatsheets",
+            "stars": 46390
+          }
+        }
+      ],
+      "title": "😎 Awesome Lists."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Expert Roadmap",
+          "description": "Roteiro para se tornar um especialista em inteligência artificial. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306977633,
+            "language": "JavaScript",
+            "last_commit": "2025-09-12T14:59:30Z",
+            "owner": "AMAI-GmbH",
+            "repo": "AI-Expert-Roadmap",
+            "stars": 31220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Developer Roadmap",
+          "description": "Roteiro para se tornar um desenvolvedor Android. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300681662,
+            "language": null,
+            "last_commit": "2020-10-02T17:23:06Z",
+            "owner": "anacoimbrag",
+            "repo": "android-developer-roadmap",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Developer Roadmap",
+          "description": "O roteiro se concentra nas competências e habilidades gerais sobre C++. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366721422,
+            "language": "HTML",
+            "last_commit": "2026-08-24T10:12:19Z",
+            "owner": "salmer",
+            "repo": "CppDeveloperRoadmap",
+            "stars": 3538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "❤️ Developer Roadmap",
+          "description": "Roteiros, artigos e recursos orientados pela comunidade para desenvolvedores. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85077558,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T14:35:38Z",
+            "owner": "nilbuild",
+            "repo": "developer-roadmap",
+            "stars": 365300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend Development Roadmap",
+          "description": "Lista de verificação e roteiro de entrevista de desenvolvimento front-end. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374018112,
+            "language": null,
+            "last_commit": "2026-05-08T04:22:24Z",
+            "owner": "sadanandpai",
+            "repo": "frontend-learning-kit",
+            "stars": 4686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game Developer Roadmap",
+          "description": "Roteiro para se tornar um desenvolvedor de jogos. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90043697,
+            "language": "Rust",
+            "last_commit": "2025-01-31T14:57:17Z",
+            "owner": "utilForever",
+            "repo": "game-developer-roadmap",
+            "stars": 5775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker Roadmap",
+          "description": "Roteiro para testadores amadores e uma coleção de ferramentas, recursos e referências de hackers. Link",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 127752367,
+            "language": null,
+            "last_commit": "2023-10-16T11:21:45Z",
+            "owner": "sundowndev",
+            "repo": "hacker-roadmap",
+            "stars": 15566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Developer Roadmap",
+          "description": "Roteiro para se tornar um desenvolvedor iOS. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121970354,
+            "language": "Swift",
+            "last_commit": "2024-01-25T09:57:30Z",
+            "owner": "BohdanOrlov",
+            "repo": "iOS-Developer-Roadmap",
+            "stars": 6419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Developer Roadmap",
+          "description": "Roteiro para se tornar um desenvolvedor React. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137583435,
+            "language": "JavaScript",
+            "last_commit": "2024-02-16T12:34:44Z",
+            "owner": "adam-golab",
+            "repo": "react-developer-roadmap",
+            "stars": 18923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "❤️ Ruby Roadmap",
+          "description": "Desenvolvimento de evolução Ruby Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181108100,
+            "language": null,
+            "last_commit": "2023-10-07T11:24:09Z",
+            "owner": "evertonlopesc",
+            "repo": "Ruby-Roadmap",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Web Developer Roadmap",
+          "description": "Roteiro para se tornar um desenvolvedor web Rust. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184176820,
+            "language": "Rust",
+            "last_commit": "2023-04-27T05:13:14Z",
+            "owner": "anshulrgoyal",
+            "repo": "rust-web-developer-roadmap",
+            "stars": 1843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI/UX Designer Roadmap",
+          "description": "Roteiro para se tornar um designer de UI/UX. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92593282,
+            "language": null,
+            "last_commit": "2024-07-04T18:40:42Z",
+            "owner": "togiberlin",
+            "repo": "ui-ux-designer-roadmap",
+            "stars": 2182
+          }
+        }
+      ],
+      "title": "🗺️ Roadmaps."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "4noobs",
+          "description": "Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250712531,
+            "language": null,
+            "last_commit": "2026-07-12T18:35:47Z",
+            "owner": "he4rt",
+            "repo": "4noobs",
+            "stars": 4344
+          }
+        }
+      ],
+      "title": "🖥️ Sites para estudar programação."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "❤️ VSCodium",
+          "description": "Projeto open source baseado do VSCODE da Microsoft. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144590939,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32965
+          }
+        }
+      ],
+      "title": "📝 IDEs e editores de código."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbnb - Javascript",
+          "description": "Guia de estilo de código em JavaScript do Airbnb. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6498492,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb - Ruby",
+          "description": "Guia de estilo de código em Ruby do Airbnb. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7967167,
+            "language": "Ruby",
+            "last_commit": "2025-12-19T06:38:30Z",
+            "owner": "airbnb",
+            "repo": "ruby",
+            "stars": 3891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google - Boas práticas em Engenharia",
+          "description": "Boas práticas de Engenharia utilizadas pelos internos da Google. Link",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 206410838,
+            "language": null,
+            "last_commit": "2024-09-19T05:27:52Z",
+            "owner": "google",
+            "repo": "eng-practices",
+            "stars": 23307
+          }
+        }
+      ],
+      "title": "📕 Guia de Estilo."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "❤️ App Ideas",
+          "description": "Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172562475,
+            "language": null,
+            "last_commit": "2025-10-11T14:51:21Z",
+            "owner": "florinpop17",
+            "repo": "app-ideas",
+            "stars": 97048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Desafio333",
+          "description": "O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201686101,
+            "language": "CSS",
+            "last_commit": "2023-01-06T09:18:36Z",
+            "owner": "codigofalado",
+            "repo": "desafio333",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend Challengens",
+          "description": "Repositório no GitHub com vários desafios solicitados reais solicitados por empresas. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83603533,
+            "language": null,
+            "last_commit": "2024-05-14T17:38:08Z",
+            "owner": "felipefialho",
+            "repo": "frontend-challenges",
+            "stars": 15016
+          }
+        }
+      ],
+      "title": "📁 Desafios."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Developer Roadmap",
+          "description": "Trilha de caminhos para seguir para se tornar um desenvolvedor WEB. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85077558,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T14:35:38Z",
+            "owner": "nilbuild",
+            "repo": "developer-roadmap",
+            "stars": 365300
+          }
+        }
+      ],
+      "title": "🛠️ Sites e Ferramentas que todo DEV precisa conhecer."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Banco De Imagens Com Diversidade",
+          "description": "Banco de imagens com pessoas diversas. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209127574,
+            "language": null,
+            "last_commit": "2019-09-20T14:27:08Z",
+            "owner": "JulianaHelena5",
+            "repo": "BancoDeImagensComDiversidade",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "📮 Banco de imagens gratuitas."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uBlock Origin",
+          "description": "Um complemento de bloqueador eficiente para vários navegadores. Rápido, potente e enxuto. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33263118,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T13:37:57Z",
+            "owner": "gorhill",
+            "repo": "uBlock",
+            "stars": 67249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisBug",
+          "description": "É uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137987910,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T01:35:42Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ProjectVisBug",
+            "stars": 5769
+          }
+        }
+      ],
+      "title": "🔩 Extensões para o seu navegador."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Netflix Marathon (Pausable)",
+          "description": "Um usuário configurável que pula automaticamente recapitulações, introduções, créditos e anúncios e clique em \"o próximo episódio\" solicita a Netflix, o Amazon Prime Video, Hulu, HBO Max, Starz, Disney+e Hotstar. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 330726919,
+            "language": "JavaScript",
+            "last_commit": "2026-03-31T04:19:11Z",
+            "owner": "aminomancer",
+            "repo": "Netflix-Marathon-Pausable",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Select text inside a link like Opera",
+          "description": "Ao instalar este script, você pode selecionar o texto dentro de um link sem arrastá-lo se o cursor for movido horizontalmente. Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24582992,
+            "language": "JavaScript",
+            "last_commit": "2020-01-15T00:47:29Z",
+            "owner": "eight04",
+            "repo": "select-text-inside-a-link-like-opera",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Clickbait-Buster",
+          "description": "Verifique se vale a pena assistir a um vídeo antes de clicar nele, espreitando seu conteúdo visual ou verbal, descrição, comentários, visualizando a miniatura em tamanho real e exibindo o título completo. Funciona no desktop e nos layouts móveis do YouTube e é compatível com o Dark Theme. Link",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 433259141,
+            "language": "JavaScript",
+            "last_commit": "2024-04-15T10:43:45Z",
+            "owner": "hjk789",
+            "repo": "Userscripts",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "⚙️ Userscripts."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "❤️ free-programming-books",
+          "description": "Livros de programação disponíveis gratuitamente Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mind Expanding Books",
+          "description": "Livros que todos deveriam ler! Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36554250,
+            "language": "JavaScript",
+            "last_commit": "2024-11-09T17:06:27Z",
+            "owner": "hackerkid",
+            "repo": "Mind-Expanding-Books",
+            "stars": 14180
+          }
+        }
+      ],
+      "title": "📚 Recomendação de livros."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:52:34.099Z",
+    "last_updated": "2026-08-24T14:32:33.807Z",
     "original_repository": "vncsmnl/guiadoprogramador",
     "original_repository_id": 523100926,
     "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
