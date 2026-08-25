@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499706
+            "stars": 499909
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46390
+            "stars": 46393
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31219
+            "stars": 31217
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-24T10:12:19Z",
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3539
+            "stars": 3540
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365344
+            "stars": 365393
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-10-16T11:21:45Z",
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15564
+            "stars": 15566
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-01-25T09:57:30Z",
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6419
+            "stars": 6420
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2024-02-16T12:34:44Z",
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18923
+            "stars": 18922
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-07-04T18:40:42Z",
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2182
+            "stars": 2183
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-12T18:35:47Z",
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4347
+            "stars": 4349
           }
         }
       ],
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-12T12:43:33Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32971
+            "stars": 32980
           }
         }
       ],
@@ -315,7 +315,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148137
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-10-11T14:51:21Z",
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97069
+            "stars": 97086
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365344
+            "stars": 365393
           }
         }
       ],
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T13:37:57Z",
+            "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67257
+            "stars": 67282
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395174
+            "stars": 395221
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14184
+            "stars": 14183
           }
         }
       ],
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:21.962Z",
+    "last_updated": "2026-08-25T22:58:15.723Z",
     "original_repository": "vncsmnl/guiadoprogramador",
     "original_repository_id": 523100926,
     "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
