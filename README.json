@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500275
+            "stars": 500362
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46400
+            "stars": 46405
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31218
+            "stars": 31220
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-24T10:12:19Z",
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3539
+            "stars": 3540
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365530
+            "stars": 365615
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-01-31T14:57:17Z",
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5777
+            "stars": 5779
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-10-16T11:21:45Z",
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15566
+            "stars": 15565
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-12T18:35:47Z",
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4353
+            "stars": 4354
           }
         }
       ],
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 144590939,
             "language": "Shell",
-            "last_commit": "2026-08-26T17:58:17Z",
+            "last_commit": "2026-08-27T09:17:14Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32992
+            "stars": 32996
           }
         }
       ],
@@ -315,7 +315,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148135
+            "stars": 148139
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-10-11T14:51:21Z",
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97108
+            "stars": 97117
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365530
+            "stars": 365615
           }
         }
       ],
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67304
+            "stars": 67309
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395282
+            "stars": 395313
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14186
+            "stars": 14188
           }
         }
       ],
@@ -569,9 +569,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:31:35.476Z",
-    "original_repository": "vncsmnl/guiadoprogramador",
-    "original_repository_id": 523100926,
+    "last_updated": "2026-08-27T11:42:03.254Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 523100926,
+      "language": null,
+      "last_commit": "2026-04-15T20:18:42Z",
+      "owner": "vncsmnl",
+      "repo": "guiadoprogramador",
+      "stars": 194
+    },
     "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
     "enhanced_repository": "enhansome/enhansome-guiadoprogramador",
     "enhanced_repository_description": null,
