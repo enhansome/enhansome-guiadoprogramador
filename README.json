@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499909
+            "stars": 500275
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46393
+            "stars": 46400
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31217
+            "stars": 31218
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-24T10:12:19Z",
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3540
+            "stars": 3539
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365393
+            "stars": 365530
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-01-31T14:57:17Z",
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5776
+            "stars": 5777
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-12T18:35:47Z",
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4349
+            "stars": 4353
           }
         }
       ],
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 144590939,
             "language": "Shell",
-            "last_commit": "2026-08-12T12:43:33Z",
+            "last_commit": "2026-08-26T17:58:17Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32980
+            "stars": 32992
           }
         }
       ],
@@ -315,7 +315,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148137
+            "stars": 148135
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2024-09-19T05:27:52Z",
             "owner": "google",
             "repo": "eng-practices",
-            "stars": 23306
+            "stars": 23305
           }
         }
       ],
@@ -366,7 +366,7 @@
             "last_commit": "2025-10-11T14:51:21Z",
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97086
+            "stars": 97108
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2024-05-14T17:38:08Z",
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15017
+            "stars": 15016
           }
         }
       ],
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365393
+            "stars": 365530
           }
         }
       ],
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67282
+            "stars": 67304
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395221
+            "stars": 395282
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14183
+            "stars": 14186
           }
         }
       ],
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:58:15.723Z",
+    "last_updated": "2026-08-27T03:31:35.476Z",
     "original_repository": "vncsmnl/guiadoprogramador",
     "original_repository_id": 523100926,
     "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
