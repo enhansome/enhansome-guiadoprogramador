@@ -16,7 +16,8 @@
             "owner": "vncsmnl",
             "repo": "guiadoprogramador",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "vncsmnl",
             "repo": "guiadoprogramador",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "🦾 Seja um colaborador:"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500362
-          }
+            "stars": 500616
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46405
-          }
+            "stars": 46408
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "😎 Awesome Lists."
@@ -87,8 +91,9 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31220
-          }
+            "stars": 31219
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -102,8 +107,9 @@
             "last_commit": "2020-10-02T17:23:06Z",
             "owner": "anacoimbrag",
             "repo": "android-developer-roadmap",
-            "stars": 150
-          }
+            "stars": 151
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2026-08-24T10:12:19Z",
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3540
-          }
+            "stars": 3539
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -132,8 +139,9 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365615
-          }
+            "stars": 365728
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
             "stars": 4686
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2025-01-31T14:57:17Z",
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5779
-          }
+            "stars": 5778
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2023-10-16T11:21:45Z",
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15565
-          }
+            "stars": 15567
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
             "stars": 6420
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2024-02-16T12:34:44Z",
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18922
-          }
+            "stars": 18920
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "evertonlopesc",
             "repo": "Ruby-Roadmap",
             "stars": 509
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "anshulrgoyal",
             "repo": "rust-web-developer-roadmap",
             "stars": 1843
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
             "stars": 2183
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "🗺️ Roadmaps."
@@ -273,8 +289,9 @@
             "last_commit": "2026-07-12T18:35:47Z",
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4354
-          }
+            "stars": 4357
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "🖥️ Sites para estudar programação."
@@ -291,11 +308,12 @@
             "archived": false,
             "id": 144590939,
             "language": "Shell",
-            "last_commit": "2026-08-27T09:17:14Z",
+            "last_commit": "2026-08-27T17:25:45Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32996
-          }
+            "stars": 33001
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "📝 IDEs e editores de código."
@@ -315,8 +333,9 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
-          }
+            "stars": 148141
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "airbnb",
             "repo": "ruby",
             "stars": 3892
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "google",
             "repo": "eng-practices",
             "stars": 23305
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "📕 Guia de Estilo."
@@ -366,8 +387,9 @@
             "last_commit": "2025-10-11T14:51:21Z",
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97117
-          }
+            "stars": 97133
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -382,7 +404,8 @@
             "owner": "codigofalado",
             "repo": "desafio333",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -396,8 +419,9 @@
             "last_commit": "2024-05-14T17:38:08Z",
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15016
-          }
+            "stars": 15013
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "📁 Desafios."
@@ -417,8 +441,9 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365615
-          }
+            "stars": 365728
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "🛠️ Sites e Ferramentas que todo DEV precisa conhecer."
@@ -439,7 +464,8 @@
             "owner": "JulianaHelena5",
             "repo": "BancoDeImagensComDiversidade",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "📮 Banco de imagens gratuitas."
@@ -459,8 +485,9 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67309
-          }
+            "stars": 67333
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
             "stars": 5769
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "🔩 Extensões para o seu navegador."
@@ -496,7 +524,8 @@
             "owner": "aminomancer",
             "repo": "Netflix-Marathon-Pausable",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -511,7 +540,8 @@
             "owner": "eight04",
             "repo": "select-text-inside-a-link-like-opera",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -526,7 +556,8 @@
             "owner": "hjk789",
             "repo": "Userscripts",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "⚙️ Userscripts."
@@ -546,8 +577,9 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395313
-          }
+            "stars": 395390
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         },
         {
           "node_type": "item",
@@ -561,15 +593,16 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14188
-          }
+            "stars": 14189
+          },
+          "first_seen": "2026-08-28T06:16:28.265Z"
         }
       ],
       "title": "📚 Recomendação de livros."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:03.254Z",
+    "last_updated": "2026-08-28T06:16:28.265Z",
     "original_repository_info": {
       "archived": false,
       "id": 523100926,
