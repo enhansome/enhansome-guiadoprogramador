@@ -107,7 +107,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500885,
+            "stars": 500895,
             "topics": [
               "awesome",
               "awesome-list",
@@ -268,7 +268,7 @@
             "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365793,
+            "stars": 365796,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -676,7 +676,7 @@
             "open_issues": 605,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97147,
+            "stars": 97148,
             "topics": [
               "applications",
               "coding",
@@ -765,7 +765,7 @@
             "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365793,
+            "stars": 365796,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -838,7 +838,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67360,
+            "stars": 67362,
             "topics": [
               "blocker",
               "browser-extension",
@@ -988,7 +988,7 @@
             "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395481,
+            "stars": 395484,
             "topics": [
               "books",
               "education",
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:50:24.816Z",
+    "last_updated": "2026-08-29T04:56:20.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
