@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Guia Definitivo de Programação.",
+            "homepage": "http://vinicius.is-a.dev/guiadoprogramador/",
             "id": 523100926,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-04-15T20:18:42Z",
+            "open_issues": 0,
             "owner": "vncsmnl",
             "repo": "guiadoprogramador",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "awesomesite",
+              "css",
+              "docs",
+              "git",
+              "github",
+              "github-pages",
+              "guia",
+              "guiadev",
+              "guiadoprogramador",
+              "html",
+              "javascript",
+              "python",
+              "roadmap",
+              "ruby",
+              "ruby-on-rails",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -26,12 +51,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Guia Definitivo de Programação.",
+            "homepage": "http://vinicius.is-a.dev/guiadoprogramador/",
             "id": 523100926,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-04-15T20:18:42Z",
+            "open_issues": 0,
             "owner": "vncsmnl",
             "repo": "guiadoprogramador",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "awesomesite",
+              "css",
+              "docs",
+              "git",
+              "github",
+              "github-pages",
+              "guia",
+              "guiadev",
+              "guiadoprogramador",
+              "html",
+              "javascript",
+              "python",
+              "roadmap",
+              "ruby",
+              "ruby-on-rails",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -48,12 +98,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500616
+            "stars": 500885,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -64,12 +125,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+            "homepage": "https://lecoupa.github.io/awesome-cheatsheets/",
             "id": 110058856,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-12T17:26:10Z",
+            "open_issues": 136,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46408
+            "stars": 46405,
+            "topics": [
+              "backend",
+              "bash",
+              "cheatsheet",
+              "cheatsheets",
+              "database",
+              "django",
+              "docker",
+              "feathersjs",
+              "frontend",
+              "javascript",
+              "kubernetes",
+              "language",
+              "nodejs",
+              "php",
+              "programming-language",
+              "redis",
+              "sailsjs",
+              "vim",
+              "vuejs",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -86,12 +173,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+            "homepage": "https://i.am.ai/roadmap",
             "id": 306977633,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-12T14:59:30Z",
+            "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31219
+            "stars": 31216,
+            "topics": [
+              "ai",
+              "ai-roadmap",
+              "artificial-intelligence",
+              "data-analysis",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "roadmap",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -102,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Developer Roadmap 2020",
+            "homepage": null,
             "id": 300681662,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2020-10-02T17:23:06Z",
+            "open_issues": 0,
             "owner": "anacoimbrag",
             "repo": "android-developer-roadmap",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -118,12 +226,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The roadmap for learning the C++ programming language for beginners and experienced devs.",
+            "homepage": "https://salmer.github.io/CppDeveloperRoadmap",
             "id": 366721422,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T10:12:19Z",
+            "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3539
+            "stars": 3540,
+            "topics": [
+              "cpp",
+              "developer-experience",
+              "diy",
+              "gitbook",
+              "junior",
+              "junior-developers",
+              "learning",
+              "middle",
+              "middle-developers",
+              "roadmap",
+              "self-study"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -134,12 +259,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "homepage": "https://roadmap.sh",
             "id": 85077558,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T14:35:38Z",
+            "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365728
+            "stars": 365793,
+            "topics": [
+              "angular-roadmap",
+              "backend-roadmap",
+              "blockchain-roadmap",
+              "computer-science",
+              "dba-roadmap",
+              "developer-roadmap",
+              "devops-roadmap",
+              "frontend-roadmap",
+              "go-roadmap",
+              "java-roadmap",
+              "javascript-roadmap",
+              "nodejs-roadmap",
+              "python-roadmap",
+              "qa-roadmap",
+              "react-roadmap",
+              "roadmap",
+              "software-architect-roadmap",
+              "vue-roadmap"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -150,12 +299,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend tech guide and curated collection of frontend materials",
+            "homepage": null,
             "id": 374018112,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-08T04:22:24Z",
+            "open_issues": 1,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4686
+            "stars": 4686,
+            "topics": [
+              "angular",
+              "css",
+              "frontend",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "react",
+              "reactjs",
+              "vuejs",
+              "webdev",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -166,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a game developer in 2022",
+            "homepage": null,
             "id": 90043697,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-31T14:57:17Z",
+            "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5778
+            "stars": 5778,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -182,12 +353,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of hacking tools, resources and references to practice ethical hacking.",
+            "homepage": null,
             "id": 127752367,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-16T11:21:45Z",
+            "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15567
+            "stars": 15568,
+            "topics": [
+              "exploitation",
+              "frameworks",
+              "hacking",
+              "hacking-tool",
+              "hacktools",
+              "information-gathering",
+              "penetration-testing",
+              "pentest",
+              "pentesting",
+              "post-exploitation",
+              "roadmap",
+              "security",
+              "web-hacking"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -198,12 +388,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming an iOS developer in 2018.",
+            "homepage": null,
             "id": 121970354,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-01-25T09:57:30Z",
+            "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6420
+            "stars": 6420,
+            "topics": [
+              "architecture",
+              "interview",
+              "ios",
+              "materials",
+              "objective-c",
+              "problem-solving",
+              "roadmap",
+              "swift",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -214,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a React developer",
+            "homepage": null,
             "id": 137583435,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-16T12:34:44Z",
+            "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18920
+            "stars": 18920,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -230,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evolution development Ruby",
+            "homepage": null,
             "id": 181108100,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-07T11:24:09Z",
+            "open_issues": 0,
             "owner": "evertonlopesc",
             "repo": "Ruby-Roadmap",
-            "stars": 509
+            "stars": 510,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -246,12 +461,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a Rust Web Developer in 2022",
+            "homepage": null,
             "id": 184176820,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-04-27T05:13:14Z",
+            "open_issues": 6,
             "owner": "anshulrgoyal",
             "repo": "rust-web-developer-roadmap",
-            "stars": 1843
+            "stars": 1843,
+            "topics": [
+              "backend",
+              "roadmap",
+              "rust",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -262,12 +487,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap on becoming a UI/UX designer in 2017",
+            "homepage": null,
             "id": 92593282,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-04T18:40:42Z",
+            "open_issues": 18,
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2183
+            "stars": 2183,
+            "topics": [
+              "roadmap",
+              "ui",
+              "ui-design",
+              "ux",
+              "ux-design"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -284,12 +520,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.",
+            "homepage": null,
             "id": 250712531,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-12T18:35:47Z",
+            "open_issues": 6,
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4357
+            "stars": 4359,
+            "topics": [
+              "4noobs",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -306,12 +550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+            "homepage": "https://vscodium.com",
             "id": 144590939,
             "language": "Shell",
-            "last_commit": "2026-08-27T17:25:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:15:12Z",
+            "open_issues": 139,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 33001
+            "stars": 33009,
+            "topics": [
+              "editor",
+              "floss",
+              "ide",
+              "open-source-licensing",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -328,12 +583,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148141
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -344,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Style Guide",
+            "homepage": null,
             "id": 7967167,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-19T06:38:30Z",
+            "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892
+            "stars": 3892,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -360,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google's Engineering Practices documentation",
+            "homepage": "https://google.github.io/eng-practices/",
             "id": 206410838,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-19T05:27:52Z",
+            "open_issues": 20,
             "owner": "google",
             "repo": "eng-practices",
-            "stars": 23305
+            "stars": 23306,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -382,12 +667,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of application ideas which can be used to improve your coding skills.",
+            "homepage": "https://CodeRabbit.ai/?ref=app-ideas",
             "id": 172562475,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-11T14:51:21Z",
+            "open_issues": 605,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97133
+            "stars": 97147,
+            "topics": [
+              "applications",
+              "coding",
+              "codingchallenges",
+              "css",
+              "hacktoberfest",
+              "html",
+              "ideas",
+              "javascript",
+              "practice"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -398,12 +698,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositório do #Desafio333 um desafio meio besta e bimestral para aprendermos juntos 💌",
+            "homepage": null,
             "id": 201686101,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-01-06T09:18:36Z",
+            "open_issues": 81,
             "owner": "codigofalado",
             "repo": "desafio333",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -414,12 +721,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A public list of open-source challenges from companies around the world",
+            "homepage": null,
             "id": 83603533,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-05-14T17:38:08Z",
+            "open_issues": 2,
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15013
+            "stars": 15014,
+            "topics": [
+              "challenge",
+              "challenges",
+              "companies-list",
+              "front-end",
+              "job-challenge",
+              "jobs",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -436,12 +756,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "homepage": "https://roadmap.sh",
             "id": 85077558,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T14:35:38Z",
+            "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365728
+            "stars": 365793,
+            "topics": [
+              "angular-roadmap",
+              "backend-roadmap",
+              "blockchain-roadmap",
+              "computer-science",
+              "dba-roadmap",
+              "developer-roadmap",
+              "devops-roadmap",
+              "frontend-roadmap",
+              "go-roadmap",
+              "java-roadmap",
+              "javascript-roadmap",
+              "nodejs-roadmap",
+              "python-roadmap",
+              "qa-roadmap",
+              "react-roadmap",
+              "roadmap",
+              "software-architect-roadmap",
+              "vue-roadmap"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -458,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bancos de Imagens Públicos com Pessoas Diversas ",
+            "homepage": null,
             "id": 209127574,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-20T14:27:08Z",
+            "open_issues": 0,
             "owner": "JulianaHelena5",
             "repo": "BancoDeImagensComDiversidade",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -480,12 +829,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "homepage": null,
             "id": 33263118,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T16:06:29Z",
+            "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67333
+            "stars": 67360,
+            "topics": [
+              "blocker",
+              "browser-extension",
+              "chromium",
+              "firefox",
+              "javascript",
+              "ublock",
+              "ublock-origin"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -496,12 +858,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug",
+            "homepage": "https://visbug.web.app",
             "id": 137987910,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T01:35:42Z",
+            "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5769
+            "stars": 5769,
+            "topics": [
+              "debugging-tool",
+              "design-tools",
+              "extension",
+              "inspector",
+              "toolkit",
+              "wsiwyg"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -518,12 +892,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically skip recaps, intros, credits, and ads, and click \"next episode\" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar",
+            "homepage": "https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable",
             "id": 330726919,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-31T04:19:11Z",
+            "open_issues": 5,
             "owner": "aminomancer",
             "repo": "Netflix-Marathon-Pausable",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "amazon-prime-video",
+              "greasemonkey-script",
+              "javascript",
+              "netflix",
+              "userscript",
+              "userscripts"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -534,12 +920,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disable link dragging and select text.",
+            "homepage": null,
             "id": 24582992,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-15T00:47:29Z",
+            "open_issues": 3,
             "owner": "eight04",
             "repo": "select-text-inside-a-link-like-opera",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "javascript",
+              "userscript"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -550,12 +944,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of some of the userscripts I created.",
+            "homepage": null,
             "id": 433259141,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-15T10:43:45Z",
+            "open_issues": 9,
             "owner": "hjk789",
             "repo": "Userscripts",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "greasemonkey",
+              "hacker-news",
+              "tampermonkey",
+              "userscript-collection",
+              "userscripts",
+              "violentmonkey",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -572,12 +979,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395390
+            "stars": 395481,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         },
@@ -588,12 +1006,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :books: Find your next book to read!",
+            "homepage": "https://mindexpandingbooks.com",
             "id": 36554250,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-09T17:06:27Z",
+            "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14189
+            "stars": 14190,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "biographies",
+              "books",
+              "computer-science",
+              "economics",
+              "fiction",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "history",
+              "mind-expanding-books",
+              "philosophy",
+              "politics",
+              "psychology",
+              "sexuality",
+              "startups",
+              "theater"
+            ]
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
         }
@@ -602,15 +1043,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:16:28.265Z",
+    "last_updated": "2026-08-29T03:50:24.816Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖 Guia Definitivo de Programação.",
+      "homepage": "http://vinicius.is-a.dev/guiadoprogramador/",
       "id": 523100926,
       "language": null,
+      "license": "WTFPL",
       "last_commit": "2026-04-15T20:18:42Z",
+      "open_issues": 0,
       "owner": "vncsmnl",
       "repo": "guiadoprogramador",
-      "stars": 194
+      "stars": 194,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesomesite",
+        "css",
+        "docs",
+        "git",
+        "github",
+        "github-pages",
+        "guia",
+        "guiadev",
+        "guiadoprogramador",
+        "html",
+        "javascript",
+        "python",
+        "roadmap",
+        "ruby",
+        "ruby-on-rails",
+        "rust"
+      ]
     },
     "original_repository_sha": "684440f5967f58d8f9e24bf32026b63769555ffc",
     "enhanced_repository": "enhansome/enhansome-guiadoprogramador",
