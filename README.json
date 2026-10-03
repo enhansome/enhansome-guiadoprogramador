@@ -5,94 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Abra Pull Requests",
-          "description": "com atualizações que você gostaria de ver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📖 Guia Definitivo de Programação.",
-            "homepage": "http://vinicius.is-a.dev/guiadoprogramador/",
-            "id": 523100926,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-04-15T20:18:42Z",
-            "open_issues": 1,
-            "owner": "vncsmnl",
-            "repo": "guiadoprogramador",
-            "stars": 195,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "awesomesite",
-              "css",
-              "docs",
-              "git",
-              "github",
-              "github-pages",
-              "guia",
-              "guiadev",
-              "guiadoprogramador",
-              "html",
-              "javascript",
-              "python",
-              "roadmap",
-              "ruby",
-              "ruby-on-rails",
-              "rust"
-            ]
-          },
-          "first_seen": "2026-08-28T06:16:28.265Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Discuta ideias através de issues",
-          "description": "ou na nossa comunidade.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📖 Guia Definitivo de Programação.",
-            "homepage": "http://vinicius.is-a.dev/guiadoprogramador/",
-            "id": 523100926,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-04-15T20:18:42Z",
-            "open_issues": 1,
-            "owner": "vncsmnl",
-            "repo": "guiadoprogramador",
-            "stars": 195,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "awesomesite",
-              "css",
-              "docs",
-              "git",
-              "github",
-              "github-pages",
-              "guia",
-              "guiadev",
-              "guiadoprogramador",
-              "html",
-              "javascript",
-              "python",
-              "roadmap",
-              "ruby",
-              "ruby-on-rails",
-              "rust"
-            ]
-          },
-          "first_seen": "2026-08-28T06:16:28.265Z"
-        }
-      ],
-      "title": "🦾 Seja um colaborador:"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "❤️ Awesome",
           "description": "Listas incríveis sobre todos os tipos de tópicos interessantes. Link",
           "children": [],
@@ -107,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513750,
+            "stars": 513797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -268,7 +180,7 @@
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 368734,
+            "stars": 368748,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -496,7 +408,7 @@
             "open_issues": 18,
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2189,
+            "stars": 2188,
             "topics": [
               "roadmap",
               "ui",
@@ -555,11 +467,11 @@
             "id": 144590939,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:11:49Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-03T04:05:52Z",
+            "open_issues": 156,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 33489,
+            "stars": 33490,
             "topics": [
               "editor",
               "floss",
@@ -589,7 +501,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
             "stars": 148301,
@@ -676,7 +588,7 @@
             "open_issues": 603,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97915,
+            "stars": 97918,
             "topics": [
               "applications",
               "coding",
@@ -765,7 +677,7 @@
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 368734,
+            "stars": 368748,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -838,7 +750,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68289,
+            "stars": 68292,
             "topics": [
               "blocker",
               "browser-extension",
@@ -988,7 +900,7 @@
             "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398335,
+            "stars": 398351,
             "topics": [
               "books",
               "education",
@@ -1015,7 +927,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14329,
+            "stars": 14331,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1043,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:22:29.256Z",
+    "last_updated": "2026-10-03T04:48:59.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
