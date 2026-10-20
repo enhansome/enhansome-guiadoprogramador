@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 520979,
+            "stars": 521494,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T14:11:21Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46567,
+            "stars": 46572,
             "topics": [
               "backend",
               "bash",
@@ -94,7 +94,7 @@
             "open_issues": 19,
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 31310,
+            "stars": 31312,
             "topics": [
               "ai",
               "ai-roadmap",
@@ -147,7 +147,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3569,
+            "stars": 3572,
             "topics": [
               "cpp",
               "developer-experience",
@@ -176,11 +176,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T16:41:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-19T14:54:57Z",
+            "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 369801,
+            "stars": 369909,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5784,
+            "stars": 5786,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15659,
+            "stars": 15661,
             "topics": [
               "exploitation",
               "frameworks",
@@ -361,7 +361,7 @@
             "open_issues": 0,
             "owner": "evertonlopesc",
             "repo": "Ruby-Roadmap",
-            "stars": 510,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -441,7 +441,7 @@
             "open_issues": 4,
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4391,
+            "stars": 4392,
             "topics": [
               "4noobs",
               "tutorial"
@@ -471,7 +471,7 @@
             "open_issues": 145,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 33698,
+            "stars": 33719,
             "topics": [
               "editor",
               "floss",
@@ -504,7 +504,7 @@
             "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148060,
+            "stars": 148062,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -561,7 +561,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "eng-practices",
-            "stars": 23285,
+            "stars": 23281,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -588,7 +588,7 @@
             "open_issues": 603,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 98247,
+            "stars": 98266,
             "topics": [
               "applications",
               "coding",
@@ -642,7 +642,7 @@
             "open_issues": 3,
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15037,
+            "stars": 15040,
             "topics": [
               "challenge",
               "challenges",
@@ -673,11 +673,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T16:41:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-19T14:54:57Z",
+            "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 369801,
+            "stars": 369909,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -746,11 +746,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T16:46:33Z",
+            "last_commit": "2026-10-19T20:28:23Z",
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68660,
+            "stars": 68683,
             "topics": [
               "blocker",
               "browser-extension",
@@ -897,10 +897,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-18T00:26:58Z",
-            "open_issues": 95,
+            "open_issues": 97,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399480,
+            "stars": 399605,
             "topics": [
               "books",
               "education",
@@ -927,7 +927,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14401,
+            "stars": 14409,
             "topics": [
               "awesome",
               "awesome-list",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:25:52.133Z",
+    "last_updated": "2026-10-20T01:12:34.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
