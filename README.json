@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536974,
+            "stars": 537531,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 137,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46676,
+            "stars": 46672,
             "topics": [
               "backend",
               "bash",
@@ -147,7 +147,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3581,
+            "stars": 3579,
             "topics": [
               "cpp",
               "developer-experience",
@@ -176,11 +176,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T09:05:33Z",
+            "last_commit": "2026-11-15T23:04:22Z",
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372020,
+            "stars": 372093,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15707,
+            "stars": 15704,
             "topics": [
               "exploitation",
               "frameworks",
@@ -408,7 +408,7 @@
             "open_issues": 18,
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2193,
+            "stars": 2194,
             "topics": [
               "roadmap",
               "ui",
@@ -468,10 +468,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-31T02:11:53Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 34118,
+            "stars": 34135,
             "topics": [
               "editor",
               "floss",
@@ -588,7 +588,7 @@
             "open_issues": 602,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 98566,
+            "stars": 98576,
             "topics": [
               "applications",
               "coding",
@@ -642,7 +642,7 @@
             "open_issues": 3,
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15051,
+            "stars": 15050,
             "topics": [
               "challenge",
               "challenges",
@@ -673,11 +673,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T09:05:33Z",
+            "last_commit": "2026-11-15T23:04:22Z",
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372020,
+            "stars": 372093,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -746,11 +746,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T19:18:25Z",
+            "last_commit": "2026-11-15T21:56:16Z",
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69324,
+            "stars": 69364,
             "topics": [
               "blocker",
               "browser-extension",
@@ -897,10 +897,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-12T18:46:04Z",
-            "open_issues": 101,
+            "open_issues": 116,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401598,
+            "stars": 401654,
             "topics": [
               "books",
               "education",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:05:21.230Z",
+    "last_updated": "2026-11-16T02:21:39.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
@@ -964,7 +964,7 @@
       "language": null,
       "license": "WTFPL",
       "last_commit": "2026-11-14T19:38:20Z",
-      "open_issues": 0,
+      "open_issues": 2,
       "owner": "vncsmnl",
       "repo": "guiadoprogramador",
       "stars": 194,
