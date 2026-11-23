@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 540558,
+            "stars": 541164,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 138,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46695,
+            "stars": 46696,
             "topics": [
               "backend",
               "bash",
@@ -147,7 +147,7 @@
             "open_issues": 2,
             "owner": "salmer",
             "repo": "CppDeveloperRoadmap",
-            "stars": 3579,
+            "stars": 3578,
             "topics": [
               "cpp",
               "developer-experience",
@@ -176,11 +176,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T16:39:22Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-22T16:16:29Z",
+            "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372514,
+            "stars": 372588,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5794,
+            "stars": 5793,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15720,
+            "stars": 15722,
             "topics": [
               "exploitation",
               "frameworks",
@@ -309,7 +309,7 @@
             "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6407,
+            "stars": 6405,
             "topics": [
               "architecture",
               "interview",
@@ -471,7 +471,7 @@
             "open_issues": 148,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 34216,
+            "stars": 34225,
             "topics": [
               "editor",
               "floss",
@@ -504,7 +504,7 @@
             "open_issues": 171,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148019,
+            "stars": 148023,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -561,7 +561,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "eng-practices",
-            "stars": 23275,
+            "stars": 23274,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -588,7 +588,7 @@
             "open_issues": 602,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 98667,
+            "stars": 98691,
             "topics": [
               "applications",
               "coding",
@@ -642,7 +642,7 @@
             "open_issues": 3,
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15047,
+            "stars": 15048,
             "topics": [
               "challenge",
               "challenges",
@@ -673,11 +673,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T16:39:22Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-22T16:16:29Z",
+            "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372514,
+            "stars": 372588,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -746,11 +746,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T20:56:06Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-22T20:43:25Z",
+            "open_issues": 16,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69554,
+            "stars": 69584,
             "topics": [
               "blocker",
               "browser-extension",
@@ -897,10 +897,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-21T23:51:56Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402039,
+            "stars": 402085,
             "topics": [
               "books",
               "education",
@@ -927,7 +927,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14592,
+            "stars": 14600,
             "topics": [
               "awesome",
               "awesome-list",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:36:06.098Z",
+    "last_updated": "2026-11-23T03:01:54.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
@@ -963,8 +963,8 @@
       "id": 523100926,
       "language": null,
       "license": "WTFPL",
-      "last_commit": "2026-11-14T19:38:20Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-23T02:12:24Z",
+      "open_issues": 0,
       "owner": "vncsmnl",
       "repo": "guiadoprogramador",
       "stars": 194,
@@ -990,7 +990,7 @@
         "rust"
       ]
     },
-    "original_repository_sha": "e270216741b3ae56aeb53c73305b0437749f43f2",
+    "original_repository_sha": "39a1d56bb9ecc8628b727e078f63afde8e12b1cb",
     "enhanced_repository": "enhansome/enhansome-guiadoprogramador",
     "enhanced_repository_description": null,
     "title": "Awesome guiadoprogramador with stars"
