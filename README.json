@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 541164,
+            "stars": 541821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 138,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46696,
+            "stars": 46700,
             "topics": [
               "backend",
               "bash",
@@ -176,11 +176,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T16:16:29Z",
+            "last_commit": "2026-11-23T16:43:00Z",
             "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372588,
+            "stars": 372655,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -220,7 +220,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4698,
+            "stars": 4697,
             "topics": [
               "angular",
               "css",
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15722,
+            "stars": 15721,
             "topics": [
               "exploitation",
               "frameworks",
@@ -340,7 +340,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18884,
+            "stars": 18883,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -408,7 +408,7 @@
             "open_issues": 18,
             "owner": "togiberlin",
             "repo": "ui-ux-designer-roadmap",
-            "stars": 2194,
+            "stars": 2193,
             "topics": [
               "roadmap",
               "ui",
@@ -468,10 +468,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-31T02:11:53Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 34225,
+            "stars": 34240,
             "topics": [
               "editor",
               "floss",
@@ -501,10 +501,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 171,
+            "open_issues": 170,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148023,
+            "stars": 148014,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -540,7 +540,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3885,
+            "stars": 3884,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -561,7 +561,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "eng-practices",
-            "stars": 23274,
+            "stars": 23272,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:28.265Z"
@@ -588,7 +588,7 @@
             "open_issues": 602,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 98691,
+            "stars": 98699,
             "topics": [
               "applications",
               "coding",
@@ -673,11 +673,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T16:16:29Z",
+            "last_commit": "2026-11-23T16:43:00Z",
             "open_issues": 5,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 372588,
+            "stars": 372655,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -746,11 +746,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T20:43:25Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-23T22:43:45Z",
+            "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69584,
+            "stars": 69614,
             "topics": [
               "blocker",
               "browser-extension",
@@ -896,11 +896,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-21T23:51:56Z",
-            "open_issues": 115,
+            "last_commit": "2026-11-24T02:15:19Z",
+            "open_issues": 113,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402085,
+            "stars": 402159,
             "topics": [
               "books",
               "education",
@@ -924,10 +924,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-11-09T17:06:27Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14600,
+            "stars": 14608,
             "topics": [
               "awesome",
               "awesome-list",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:01:54.155Z",
+    "last_updated": "2026-11-24T06:19:47.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 Guia Definitivo de Programação.",
@@ -964,7 +964,7 @@
       "language": null,
       "license": "WTFPL",
       "last_commit": "2026-11-23T02:12:24Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "vncsmnl",
       "repo": "guiadoprogramador",
       "stars": 194,
